@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+tweepy
+textblob
+wordcloud
+streamlit_option_menu
+requests
+streamlit_lottie
